@@ -1,4 +1,4 @@
-# PortfolioProject
+# Javscript Project
 - It is a script that generates random messages
 
 # Technologies
